@@ -1,0 +1,4 @@
+﻿  UnitTest1.cpp
+C:\Users\Lenovo\Desktop\лаби\АП\lab_8.1(string)\lab_8.1(string)\Source.cpp(13,20): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+     Creating library C:\Users\Lenovo\Desktop\лаби\АП\lab_8.1(string)\x64\Debug\UnitTest1.lib and object C:\Users\Lenovo\Desktop\лаби\АП\lab_8.1(string)\x64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\Lenovo\Desktop\лаби\АП\lab_8.1(string)\x64\Debug\UnitTest1.dll
